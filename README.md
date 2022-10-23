@@ -1,1 +1,3 @@
-#Latihan 2
+### Hallo nama saya Amanda Puspa Negara. Saya membuat ini untuk memenuhi tugas saya.
+
+### Instalasi Python
